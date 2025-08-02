@@ -1,0 +1,30 @@
+# Python
+*.pyc
+__pycache__/
+*.egg-info/
+*.swp
+*.swo
+~*
+.DS_Store
+/venv/
+/.venv/
+
+# Django
+local_settings.py
+db.sqlite3
+/static/
+
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnp.js
+.pnp.cjs
+
+# IDE specific (PyCharm)
+.idea/
+*.iml
+
+# OS generated files
+.DS_Store
